@@ -1,0 +1,14 @@
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\bin\Debug\net8.0\TestandoAprendizados.exe
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\bin\Debug\net8.0\TestandoAprendizados.deps.json
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\bin\Debug\net8.0\TestandoAprendizados.runtimeconfig.json
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\bin\Debug\net8.0\TestandoAprendizados.dll
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\bin\Debug\net8.0\TestandoAprendizados.pdb
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.AssemblyInfoInputs.cache
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.AssemblyInfo.cs
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.csproj.CoreCompileInputs.cache
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.dll
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\refint\TestandoAprendizados.dll
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.pdb
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\TestandoAprendizados.genruntimeconfig.cache
+C:\Users\otavio.almeida\source\repos\TestandoAprendizados\TestandoAprendizados\obj\Debug\net8.0\ref\TestandoAprendizados.dll
